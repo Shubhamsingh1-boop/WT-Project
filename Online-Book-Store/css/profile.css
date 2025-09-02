@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+.resume-html, .resume-viewer {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+
+.resume-html ul {
+  margin-left: 20px;
+}
+
+.resume-viewer iframe {
+  border: 2px solid #ddd;
+  border-radius: 10px;
+}

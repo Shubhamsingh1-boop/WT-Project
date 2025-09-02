@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.cart-items {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+
+.cart-item button {
+  font-size: 0.85rem;
+}
+
+button.btn-danger {
+  margin-top: 10px;
+}
